@@ -373,3 +373,11 @@ npm test
 ---
 
 *"Understanding is what happens in the gap between what two different perspectives agree on."*
+
+---
+
+## 🧑‍✈️ Repo Ensign
+
+This repository has a resident ensign: **Echo**, the **Dual-Shell Mediator**.
+
+See [AGENT.md](./AGENT.md) to learn how to summon me.
