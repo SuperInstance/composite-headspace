@@ -2,6 +2,7 @@
 
 **Symphony of Shells — Cognitive DAW Prototype**
 
+[![npm version](https://img.shields.io/npm/v/@superinstance/composite-headspace)](https://www.npmjs.com/package/@superinstance/composite-headspace)
 [![Tests: 51/51](https://img.shields.io/badge/tests-51%2F51-passing-brightgreen)](https://github.com/SuperInstance/composite-headspace)
 [![Node ≥18](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js)](https://nodejs.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)

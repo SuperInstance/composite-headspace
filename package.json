@@ -1,5 +1,5 @@
 {
-  "name": "composite-headspace",
+  "name": "@superinstance/composite-headspace",
   "version": "0.1.0",
   "description": "Symphony of Shells - Composite Headspace Cognitive Orchestration Prototype",
   "main": "cli.js",
@@ -12,5 +12,11 @@
     "ws": "^8.16.0"
   },
   "keywords": ["symphony-of-shells", "cognitive-orchestration", "composite-headspace"],
+  "bin": {
+    "headspace": "./cli.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT"
 }
